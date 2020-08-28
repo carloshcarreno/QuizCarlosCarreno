@@ -17,6 +17,5 @@
         <RadioButton GroupName="category" Content="Electronics" HorizontalAlignment="Left" Margin="165,112,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
         <Label Content="Category" HorizontalAlignment="Left" Margin="62,82,0,0" VerticalAlignment="Top"/>
         <Label Name="lblCategory" Visibility="Hidden"  Content="" HorizontalAlignment="Left" Margin="62,119,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.972,0.295"/>
-
     </Grid>
 </Page>
